@@ -1,2 +1,3 @@
-# ois-github
- Primeiro repositório no GitHub! :)
+# Ois, GitHub!
+
+ Esse é o meu primeiro repositório por aqui! :)
